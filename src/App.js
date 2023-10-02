@@ -1,5 +1,4 @@
 import ChartComponent from "./ChartComponent"
-import DelayedInput from './DelayedInput';
 import './App.css';
 
 function App() {
